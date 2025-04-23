@@ -25,6 +25,9 @@
 │   └── installments_payments.csv   # Original supplementary dataset #6
 └── README.md
 ```
+## Project Description
+
+This project outlines an exploratory data analysis and multi-model implementation strategy for credit risk prediction to address challenges related to dataset merging and feature engineering. A novel approach of training separate models on supplementary datasets to enhance predictive performance is proposed.
 
 ## How to run code
 
